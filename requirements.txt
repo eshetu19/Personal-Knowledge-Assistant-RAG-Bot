@@ -1,0 +1,5 @@
+
+numpy
+google-genai
+python-dotenv
+pypdf
